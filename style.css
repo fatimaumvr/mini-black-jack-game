@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(35, 82, 35);
+    color: goldenrod;
+}
+
+#text{color: white;
+font-style: italic;}
+
+button{margin-bottom: 5px;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 3px;
+    padding: 6px;
+    background: goldenrod;
+    color: rgb(35, 82, 35);
+width: 200px;}
