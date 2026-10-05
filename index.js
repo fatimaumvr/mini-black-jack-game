@@ -42,4 +42,4 @@ newGameButton.addEventListener('click',function(){
     }
 })
 
-
+let k=0
