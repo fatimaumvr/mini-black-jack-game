@@ -4,8 +4,10 @@ body{
     justify-content: center;
     align-items: center;
     background: rgb(35, 82, 35);
-    color: goldenrod;
+    color: white
 }
+
+h1{color: goldenrod;}
 
 #text{color: white;
 font-style: italic;}
